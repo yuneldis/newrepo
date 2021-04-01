@@ -1,1 +1,2 @@
 Este es el primer fichero.
+Este es un cambio hecho en beta.
